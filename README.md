@@ -1,4 +1,4 @@
 
 # README #
 
-${projectName}
+${PROJECT_NAME}
