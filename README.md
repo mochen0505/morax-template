@@ -1,4 +1,4 @@
 
 # README #
 
-morax-template
+${projectName}
