@@ -14,5 +14,7 @@ const app = new Launcher({
 app.use(guid)
 app.use(sentry)
 
-app.start()
+app.start({
+    perf: true
+})
 
