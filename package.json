@@ -53,9 +53,9 @@
         "typescript": "^4.3.5"
     },
     "dependencies": {
-        "@morax/shield": "1.0.0",
-        "@morax/shield-guid": "0.0.5",
-        "@morax/shield-sentry": "0.0.6",
+        "@morax/shield": "1.1.0",
+        "@morax/shield-guid": "1.0.0",
+        "@morax/shield-sentry": "1.0.0",
         "react": "^18.0.0",
         "react-dom": "^18.0.0"
     }
